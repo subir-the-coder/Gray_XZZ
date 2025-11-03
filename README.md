@@ -1,4 +1,4 @@
-# xx0r — README and LICENSE
+# xx0r — README
 
 **ReconTool** is a modular Python CLI that orchestrates reconnaissance and URL-crawling tools to help security testers collect, filter and prepare web targets for further analysis (XSS, SQLi, parameter discovery, etc.). This repository contains an interactive script intended for Debian-based pentest distributions (Parrot OS, Kali, Ubuntu).
 
