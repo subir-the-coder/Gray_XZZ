@@ -142,11 +142,4 @@ limitations under the License.
 
 ---
 
-If you want, I can:
-
-* Rename the script file to `xx0r.py` inside the repo and provide exact invocation examples.
-* Add a `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, or a lightweight GitHub Actions workflow for linting.
-
-Tell me which you'd like and I will add them.
-Just dont you to forget the original coder... :)
 
