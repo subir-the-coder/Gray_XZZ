@@ -31,6 +31,7 @@ def display_banner() -> None:
     print("██║   ██║██╔══██╗██╔══██║  ╚██╔╝       ██╔██╗  ███╔╝   ███╔╝  ")
     print("╚██████╔╝██║  ██║██║  ██║   ██║       ██╔╝ ██╗███████╗███████╗")
     print(" ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚══════╝")
+    print(f"{Version 2.0")
     print(f"{NC}")
     print(f"{BOLD_WHITE}                      Website: computerkorner.org")
 
